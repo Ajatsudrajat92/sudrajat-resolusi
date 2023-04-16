@@ -2,3 +2,4 @@ Sudrajat Resolusi
 -Konsisten untuk belajar dasar-dasar web
 -belajar HTML dan CSS selama 1-2 bulan
 -membuat latihan html dan css paling sedikit 3 dalam 1 hari
+-Mempelajari JavaScript
